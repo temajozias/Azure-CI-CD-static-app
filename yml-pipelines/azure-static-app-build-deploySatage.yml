@@ -20,6 +20,9 @@ stages:
     steps:
     - checkout: self
       submodules: true
+    variables:
+    - name: BROWSERSLIST_IGNORE_OLD_DATA
+      value: true
     # Add any build-related steps here
 
 - stage: DeployToStaging
