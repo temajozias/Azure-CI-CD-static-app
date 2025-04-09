@@ -2,7 +2,7 @@
   <div id="app">
 
     <h1>Tema Gen Ai & AI Agents Platform</h1>
-	  <h2>Upload your data to get Gen Ai predictions</h2>
+    <h2>Upload your data to get Gen Ai predictions</h2>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
