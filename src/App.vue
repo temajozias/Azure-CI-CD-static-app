@@ -15,6 +15,7 @@
     <h2>Wanda Maximoff, The Scarlett Witch</h2>
     <h2>Bucky Barnes, The Winter Soldier</h2>
     <h2>Dr Steven Strange, The Sorcerer Supreme</h2>
+    <h2>Peter Parker, Spiderman</h2>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
