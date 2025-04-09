@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <h1>Tema Gen Ai & AI Agents Platform</h1>
+    <h1>Tema aka TheAvengers37 Gen Ai & AI Agents Platform</h1>
     <h2>Upload your data to get Gen Ai predictions</h2>
     <h2>Edit from April 09, 2025</h2>
     <h2>Tema Jozias, aspiring MLOps engineer.</h2>
