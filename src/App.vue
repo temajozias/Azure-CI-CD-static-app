@@ -5,6 +5,7 @@
     <h2>Upload your data to get Gen Ai predictions</h2>
     <h2>Edit from April 09, 2025</h2>
     <h2>Tema Jozias, aspiring MLOps engineer.</h2>
+    <h2>Tema Jozias, TheAvengers37</h2>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
