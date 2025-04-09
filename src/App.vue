@@ -8,6 +8,7 @@
     <h2>Tony Stark, Iron Man with the Mark 42 Bleeding Edge</h2>
     <h2>Tony Stark, Iron Man with the Mark 42 Bleeding Edge</h2>
     <h2>Col James Rhodes, War Machine</h2>
+    <h2>Natasha Romanoff, Black Widow</h2>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
