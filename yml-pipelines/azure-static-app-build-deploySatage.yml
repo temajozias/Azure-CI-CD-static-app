@@ -33,10 +33,10 @@ stages:
     pool:
       vmImage: ubuntu-latest
     steps:
-    - bash: npx update-browserslist-db@latest
-      displayName: 'Browserslist: caniuse-lite is outdated. Updating ...'
     - checkout: self
       submodules: true
+    - bash: npx update-browserslist-db@latest
+      displayName: 'Browserslist: caniuse-lite is outdated. Updating ...'
     - task: AzureStaticWebApp@0
       inputs:
         azure_static_web_apps_api_token: $(deployment_token)
