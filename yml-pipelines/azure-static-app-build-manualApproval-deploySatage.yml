@@ -35,8 +35,8 @@ stages:
       timeoutInMinutes: 5 # task times out in 1 day
       inputs:
         notifyUsers: |
-          03sarath@gmail.com
-        instructions: 'Please validate the build configuration and resume'
+          temajozias@gmail.com
+        instructions: 'The Build is complete. Please validate the build configuration and resume'
         onTimeout: 'resume'
 
 - stage: DeployToStaging
@@ -50,6 +50,8 @@ stages:
     steps:
     - checkout: self
       submodules: true
+    - bash: npx update-browserslist-db@latest
+      displayName: 'Browserslist: caniuse-lite is outdated. Updating ...'
     - task: AzureStaticWebApp@0
       inputs:
         azure_static_web_apps_api_token: $(deployment_token)

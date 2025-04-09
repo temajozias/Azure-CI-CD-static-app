@@ -13,6 +13,7 @@
     <h2>The Haweye who never misses</h2>
     <h2>Vision, The living AI</h2>
     <h2>Wanda Maximoff, The Scarlett Witch</h2>
+    <h2>Bucky Barnes, The Winter Soldier</h2>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
