@@ -10,6 +10,7 @@
     <h2>Col James Rhodes, War Machine</h2>
     <h2>Natasha Romanoff, Black Widow</h2>
     <h2>Thor, Son of Odin, God of Thunder</h2>
+    <h2>The Haweye who never misses</h2>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
