@@ -6,6 +6,7 @@
     <h2>Edit from April 09, 2025</h2>
     <h2>Tema Jozias, aspiring MLOps engineer.</h2>
     <h2>Tony Stark, Iron Man with the Mark 42 Bleeding Edge</h2>
+    <h2>Tony Stark, Iron Man with the Mark 42 Bleeding Edge</h2>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
